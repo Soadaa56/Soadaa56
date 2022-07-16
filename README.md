@@ -1,4 +1,6 @@
 # Soadaa56
+Hello, my name is Kevin Duffy and I'm currently working my way through The Odin Project. I've known for many years that it's possible to self-teach yourself programming but never put forth any real effort to learn it as I currently am everyday. I recently finished the fundamentals on TOP and just started learning Ruby and enjoying myself. I'm also quite curious what rails will add to Ruby since I almost never hear Ruby talked about without Rails.
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soadaa56)](https://git.io/streak-stats)
 
