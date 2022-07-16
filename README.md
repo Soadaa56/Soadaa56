@@ -8,3 +8,9 @@
 
   
 <img src= "https://i.scdn.co/image/ab67616d0000b27363fa6bdb8915b369c02f52d0" alt="Guts from magna Berserk" width = '500' height = '600' img align = "right">
+
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+<! –– ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) -->
