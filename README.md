@@ -7,7 +7,7 @@
 <a href="https://twitter.com/Soadaa56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 
   
-<img src= "https://i.scdn.co/image/ab67616d0000b27363fa6bdb8915b369c02f52d0" alt="Guts from magna Berserk" width = '500' height = '600' img align = "right">
+<img src= "https://i.scdn.co/image/ab67616d0000b27363fa6bdb8915b369c02f52d0" alt="Guts from magna Berserk" width = '500' height = '600' img align = "right" style = margin-bottom: 20px>
 
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
