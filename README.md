@@ -1,5 +1,15 @@
 # Soadaa56
-Hello, my name is Kevin Duffy and I'm currently working my way through The Odin Project. I've known for many years that it's possible to self-teach yourself programming but never put forth any real effort to learn it as I currently am everyday. I recently finished the fundamentals on TOP and just started learning Ruby and enjoying myself. I'm also quite curious what rails will add to Ruby since I almost never hear Ruby talked about without Rails.
+Hello, my name is Kevin Duffy and I'm currently working my way through The Odin Project.
+
+I have finished the Foundations part of the curriculum which taught me HTML, CSS, and JavaScript and even made a few ugly-looking websites. After which you are asked to choose two paths and learn Full stack with either Ruby or Javascript. I figured I was already on the path less traveled (becoming self-taught), and decided to choose the path less traveled again with Ruby. I will say Ruby is such a great first language to learn and I don't regret my decision.
+
+I'm currently working through the data structures and algorithms of Ruby and barely keeping my head above water in understanding. 
+
+In the meantime I have also started reading Practical Object-Oriented Design in Ruby by Sandi Metz. It's a lot to take in but I thought I should be working on proper OOD paradigms with my classes instead of spaghetti code.
+
+I am also quite excited to see what all the hub-bub is about the framework Rails but I've been saving it for when the proper time comes in the cirriculum.
+I'll have to finish the projects 'connect-four' and 'chess' before I can move on to the next section dealing with Databases, Followed by another section called 'Intermediate HTML and CSS'
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soadaa56)](https://git.io/streak-stats)
