@@ -8,11 +8,6 @@ On the other hand, Rails was just as easy as an introduction into web developmen
 
 In the meantime I have also started reading Practical Object-Oriented Design in Ruby by Sandi Metz. It's a lot to take in but I thought I should be working on proper OOD paradigms with my classes instead of spaghetti code.
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Soadaa56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
