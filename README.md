@@ -7,6 +7,8 @@ I built my first dynamic website [Milknthingzz](HTTPS://milknthingzz.xyz), to te
 
 After that I am currently teaching myself NodeJS beause I was quite curious how things looked on the other side (the other side for the two paths on TOP). I plan to use Node with Express, and either React or Angular, to make my next live web project. I would then work on a 'portfolio' website to show off my major projects and a little pizzazz to my projects. Lastly, my last project would likely be a mobile android app for the gym.
 
+Links for books I'm currently reading: [Eloquent JavaScript](https://eloquentjavascript.net/01_values.html) (I didn't know ECMAScript is interchangable with JavaScript)
+
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
