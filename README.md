@@ -1,7 +1,7 @@
 # Soadaa56
 Hello, my name is Kevin Duffy and I'm an aspiring web developer currently working my way through [The Odin Project](www.theodinproject.com) (TOP).
 
-6/26/25: Moving [Milknthingzz](HTTPS://milknthingzz.xyz) to Lightsail to save on costs but also maintain using AWS since many professional use AWS cloud services. My future personal projects at (kevinduffy.dev, not currently live)[kevinduffy.dev ], will be on linode to try other services.
+6/26/25: Moving [Milknthingzz](HTTPS://milknthingzz.xyz) to Lightsail to save on costs but also maintain using AWS since many professional use AWS cloud services. My future personal projects at (kevinduffy.dev, not currently live)[www.kevinduffy.dev], will be on linode to try other services.
 Also, currently reading through [Eloquent JavaScript](https://eloquentjavascript.net/01_values.html) to make sure I'm at least a functional base level with JavaScript haha.
 
 After the foundations section of TOP, which taught HTML, CSS, and Javascript, I had 2 choices between Ruby on Rails and NodeJS. I figured I was already on the path less traveled (Self-taught web developer) and choose the path least traveled again; I started learning Ruby on Rails and fell in love with it immeditatly. Ruby is such a beautiful language and amazing as an introduction into programming. 
