@@ -1,5 +1,5 @@
 # Soadaa56
-Hello, my name is Kevin Duffy and I'm an aspiring web developer currently working my way through [The Odin Project](www.theodinproject.com) (TOP).
+Hello, my name is Kevin Duffy and I'm an aspiring web developer who got their start through the [The Odin Project](www.theodinproject.com) (TOP).
 
 After the foundations section of TOP, which taught HTML, CSS, and Javascript, I had 2 choices between Ruby on Rails and NodeJS. I figured I was already on the path less traveled (Self-taught web developer) and choose the path least traveled again; I started learning Ruby on Rails and fell in love with it immeditatly. Ruby is such a beautiful language and amazing as an introduction into programming. 
 
@@ -9,13 +9,11 @@ After that I am currently teaching myself NodeJS beause I was quite curious how 
 
 
 
-6/26/2025: Moving [Milknthingzz](HTTPS://milknthingzz.xyz) to Lightsail to save on costs but also maintain using AWS since many professional use AWS cloud services. 
+1/15/26  I got a wave of motivation and decided to just fully move over to linux and have CachyOS as my daily driver. For now, I have put my incremental game on the backburner as I persue content creation since I have an opporunity to do so that not many are afforded.
+In the meantime, I've decided to start a blog to complement this pursuit. I will write about my experiences with games (basically a review), linking any relevant playthroughs. I will also have a section for guides which may include video game guides (how to do X in Y game) but also guides on how to use software or troublehoot problems (I currently have one video talking about turtle WoW addons and how to install them).
 
-09/01/2025: My portfolio [KevinDuffy.dev](https://KevinDuffy.dev) is now live and hosted on github pages. My next project will most likely be a browser incremental game which will likely be hosted on github pages as well.
-I'm considering self-hosting my side projects (to allow anyone to use for demonstration purposes), but need to look more into what exactly are the limitations of github pages. They make use of databases but none of the data needs to be persistent and intial data could easily be seeded.
-
-10/02/2025: Started looking into DS&A and Leetcode. In some aspects it's not as bad as I envisioned it to be, but it all also feels so foreign to everything I have learned previously. Well, except for that ruby chess project I never did get
-alround to finishing.
+Is making a blog the best use of my time? Unsure.
+Does doing so combine all the skills I've been learning toward a common goal? Yes!
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
