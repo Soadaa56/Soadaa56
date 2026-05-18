@@ -3,17 +3,10 @@ Hello, my name is Kevin Duffy and I'm an aspiring web developer who got their st
 
 After the foundations section of TOP, which taught HTML, CSS, and Javascript, I had 2 choices between Ruby on Rails and NodeJS. I figured I was already on the path less traveled (Self-taught web developer) and choose the path least traveled again; I started learning Ruby on Rails and fell in love with it immeditatly. Ruby is such a beautiful language and amazing as an introduction into programming. 
 
-I built my first dynamic website [Milknthingzz](HTTPS://milknthingzz.xyz), to teach myself a bunch of different skills associated with web development. The most time consuming (hair pulling) was probably making the website live with Docker containers on an AWS EC2 instance.
-
-After that I am currently teaching myself NodeJS beause I was quite curious how things looked on the other side (the other side for the two paths on TOP). I plan to use Node with Express, and either React or Angular, to make my next live web project. I would then work on a 'portfolio' website to show off my major projects and a little pizzazz to my projects. Lastly, my last project would likely be a mobile android app for the gym.
+I built my first dynamic website [Milknthingzz](HTTPS://milknthingzz.xyz), to teach myself a bunch of different skills associated with web development. The most time consuming (hair pulling) was probably making the website live with Docker containers on an AWS EC2 instance. Since then I have moved it to a lightsail instance with the database intact, wasn't too painful.
 
 
-
-1/15/26  I got a wave of motivation and decided to just fully move over to linux and have CachyOS as my daily driver. For now, I have put my incremental game on the backburner as I persue content creation since I have an opporunity to do so that not many are afforded.
-In the meantime, I've decided to start a blog to complement this pursuit. I will write about my experiences with games (basically a review), linking any relevant playthroughs. I will also have a section for guides which may include video game guides (how to do X in Y game) but also guides on how to use software or troublehoot problems (I currently have one video talking about turtle WoW addons and how to install them).
-
-Is making a blog the best use of my time? Unsure.
-Does doing so combine all the skills I've been learning toward a common goal? Yes!
+5/18/26 Decided to get back into the groove of things after AWS took down my account briefly due to suspicious activities. I was learning some Twincat 3 (PLC) programming but I also want to make sure my side project incremental game doesn't fall to the wayside! Although I am still considering my gaming blog and continue to upload more content to youtube (not just gameplay).
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
