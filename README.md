@@ -8,8 +8,8 @@ I built my first dynamic website [Milknthingzz](HTTPS://milknthingzz.xyz), to te
 
 5/18/26 Decided to get back into the groove of things after AWS took down my account briefly due to suspicious activities. I was learning some Twincat 3 (PLC) programming but I also want to make sure my side project incremental game doesn't fall to the wayside! Although I am still considering my gaming blog and continue to upload more content to youtube (not just gameplay).
 
-?Quote=TestingQuote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=ff0000)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
